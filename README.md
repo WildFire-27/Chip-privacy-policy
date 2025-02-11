@@ -1,1 +1,1 @@
-Chip: A Study time app - privacy policy
+Chip: A Study timer app - privacy policy
